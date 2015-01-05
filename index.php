@@ -1,7 +1,12 @@
 <?php
 /*
 Plugin Name: Tournament Seeker Golf Widget
+Plugin URI: http://golf.tournamentseeker.com/api
 Description: Display details about your favorite upcoming Golf events, straight from Golf.TournamentSeeker.com! 
+Author: tournamentseeker
+Author URI: http://golf.tournamentseeker.com
+Version: 1.0.1
+License: GPL-2	
 
 */
 // Creating the widget
