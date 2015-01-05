@@ -5,7 +5,7 @@ Plugin URI: http://golf.tournamentseeker.com/api
 Description: Display details about your favorite upcoming Golf events, straight from Golf.TournamentSeeker.com! 
 Author: tournamentseeker
 Author URI: http://golf.tournamentseeker.com
-Version: 1.0.1
+Version: 1.0.2
 License: GPL-2	
 
 */
@@ -198,19 +198,20 @@ class tournament_seeker_golf_event_widget extends WP_Widget
 }
 
 .golf-event-details {
-	list-style-type: none;
+	list-style-type: none !important;
 	margin: 10px 10px 10px 5px !important;
 	padding: 0px;
 
 }
 
 .golf-event-details li {
-
+	background: none !important;
+	font-size: 12px !important;
+	text-align: center;
 }
 
 .golf-event-details li .header {
-	display: inline-block;
-	width: 70px;
+	display: block;
 	font-weight: bold;
 	color: #669933;
 }

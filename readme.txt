@@ -40,10 +40,16 @@ No, this plugin is specific to the golf listings featured on http://golf.tournam
 
 == Changelog ==
 
+= 1.0.2 =
+* Updated event listing styling
+
 = 1.0 =
 * Initial public release
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+* Updated event listing styling
 
 = 1.0 =
 * Initial public release
