@@ -1,6 +1,6 @@
 === TournamentSeeker Golf Widget ===
 Contributors: tournamentseeker
-Tags: widget, tournamentseeker, golf
+Tags: widget, tournamentseeker, tournament, seeker, tournament seeker, golf
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: trunk
